@@ -1,6 +1,7 @@
 body {
     margin: 40px auto;
     width: 75%;
+    pointer-events: none;
 }
 
 nav ul{
@@ -16,6 +17,7 @@ nav ul li {
 a {
     text-decoration: none;
     color: #C1DAD6;
+    pointer-events: all;
 }
 a:hover {
     text-decoration: underline;

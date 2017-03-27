@@ -46,7 +46,8 @@ function Star() {
 }
 
 function mousePressed() {
-  var randomNumber = random(0, 3);
+  var randomNumber = Math.floor(random(0, 4));
+  console.log(randomNumber);
   sounds[randomNumber].setVolume(0.5);
   sounds[randomNumber].play();
 }
