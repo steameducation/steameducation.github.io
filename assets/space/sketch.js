@@ -44,3 +44,9 @@ function Star() {
       ellipse(this.x, this.y, this.size, this.size);
     }
 }
+
+function mousePressed() {
+  var randomNumber = random(0, 3);
+  sounds[randomNumber].setVolume(0.5);
+  sounds[randomNumber].play();
+}
