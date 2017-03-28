@@ -1,5 +1,5 @@
 body {
-    margin: 40px auto;
+    margin: 20px auto;
     width: 75%;
     pointer-events: none;
 }
@@ -82,6 +82,7 @@ filter:alpha(opacity=80); /* For IE8 and earlier */
 #footer {
    position:absolute;
    padding-top: 50px;
+   padding-bottom: 20px;
    width:75%;
 }
 
@@ -153,4 +154,10 @@ img.resize{
     cursor: pointer;
 }
 
-
+.frame {
+  text-align: center;
+  width: 100%;
+  pointer-events: all;
+  padding-top: 20px;
+  paddint-bottom: 20px;
+}
