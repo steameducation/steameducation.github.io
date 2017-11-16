@@ -1,5 +1,6 @@
 var stars = [];
 var sounds = [];
+var bgCol = [41, 50, 75];
 
 function preload() {
   sounds[0] = loadSound('sounds/c.wav');
@@ -10,7 +11,7 @@ function preload() {
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(31, 40, 45);
+  background(bgCol[0], bgCol[1], bgCol[2]);
 
   for(var i = 0; i < width/6; i++) {
     stars[i] = new Star();
@@ -19,7 +20,7 @@ function setup() {
 }
 
 function draw() {
-  background(31, 40, 45);
+  background(bgCol[0], bgCol[1], bgCol[2]);
 
   for(var j = 0; j < stars.length; j++) {
     stars[j].display();
