@@ -16,10 +16,10 @@ document.write('\
 	    <li> <div class="dropdown">\
 	    	<button class="dropbtn">Resources</button>\
 	    		<div class="dropdown-content">\
-	    			<a href="../resources.html">Neptune App</a>\
-	    			<a href="../team.html">WASO Guidebook</a>\
-	    			<a href="../waso.html">STEAM Repository</a>\
-	    			<a href="../partners.html">WASO Pedagogy</a>\
+	    			<a href="../neptuneapp.html">Neptune App</a>\
+	    			<a href="../wasoguidebook.html">WASO Guidebook</a>\
+	    			<a href="../steamrepository.html">STEAM Repository</a>\
+	    			<a href="../wasopedagogy.html">WASO Pedagogy</a>\
 	    		</div>\
 	    	</div>\
 	    </li>\
