@@ -14,16 +14,16 @@ document.write('\
 	    	</div>\
 	    </li>\
 	    <li> <div class="dropdown">\
-	    	<button class="dropbtn">Resources</button>\
+	    	<button class="dropbtn">Project Outputs</button>\
 	    		<div class="dropdown-content">\
 	    			<a href="../neptuneapp.html">Neptune App</a>\
 	    			<a href="../wasoguidebook.html">WASO Guidebook</a>\
 	    			<a href="../steamrepository.html">STEAM Repository</a>\
 	    			<a href="../wasopedagogy.html">WASO Pedagogy</a>\
+	    			<a href="../bookinginformation.html">STEAM Symposium</a>\
 	    		</div>\
 	    	</div>\
 	    </li>\
-        <li><a href="../resources.html">Resources</a></li>\
         <li><a href="../learn.html">Learn</a></li>\
         <li><a href="../play.html">Play</a></li>\
         <li><a href="../news.html">News</a></li>\
