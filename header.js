@@ -24,7 +24,7 @@ document.write('\
 	    		</div>\
 	    	</div>\
 	    </li>\
-        <li><a href="learn.html">Learn</a></li>\
+        <li><a href="learn.html">Links to Explore</a></li>\
         <li><a href="play.html">Play</a></li>\
         <li><a href="news.html">News</a></li>\
     </ul>\
