@@ -9,7 +9,6 @@ document.write('\
 	    			<a href="space.html"> SPACE Project </a>\
 	    			<a href="team.html">SPACE Team </a>\
 	    			<a href="waso.html"> WASO </a>\
-	    			<a href="partners.html"> SPACE Partners </a>\
 	    		</div>\
 	    	</div>\
 	    </li>\
