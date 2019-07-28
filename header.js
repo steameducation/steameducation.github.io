@@ -8,6 +8,7 @@ document.write('\
 	    		<div class="dropdown-content">\
 	    			<a href="space.html"> SPACE Project </a>\
 	    			<a href="team.html">SPACE Team </a>\
+	    			<a href="process.html">What we did</a>\
 	    			<a href="waso.html"> WASO </a>\
 	    		</div>\
 	    	</div>\
@@ -23,9 +24,9 @@ document.write('\
 	    		</div>\
 	    	</div>\
 	    </li>\
+	    <li><a href="news.html">News</a></li>\
+	    <li><a href="play.html">Play</a></li>\
         <li><a href="learn.html">Links to Explore</a></li>\
-        <li><a href="play.html">Play</a></li>\
-        <li><a href="news.html">News</a></li>\
     </ul>\
 </nav>\
 \
